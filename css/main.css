@@ -1,5 +1,5 @@
 /*
-* Template Name: BreezyCV - Resume / CV / vCard / Portfolio Template
+* Template Name: David Haro CV - Resume /
 * Author: LMPixels
 * Author URL: http://themeforest.net/user/lmpixels
 * Version: 1.3.0
